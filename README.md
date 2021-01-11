@@ -10,7 +10,6 @@
 <p> <a href="https://www.cyberspacevoid.xyz">Clara Chen</a> </p>
 <pre>
 <p> <i> Project for the Future: An Anthology of new Sociotechnical Imaginaries </i> </p>
-<article>
 <p> is set to be a digital and print publication 
 hightlighting individuals and 
 collective groups 
@@ -34,8 +33,6 @@ creature blueprint for a hopeful world, and most importantly, as
 a balance against the dismal news stories and projections that we've been 
 hearing for far too long. 
 </p>
-
-
 <p> <h3> <strong>ABOUT THE DIRECTOR</strong> </h3> </p>
 <pre> <p> Clara Chen is an expanded media artist and animator 
 in Regina SK Treaty Four Territory. 
