@@ -7,7 +7,7 @@
 
 <p><h2><strong>PROJECT FOR THE FUTURE</strong></h2></p>
 
-<p> <a href="https://www.cyberspacevoid.xyz">Clara Chen</a> </p>
+<p> <a href="https://www.cyberspacevoid.xyz/about">Clara Chen</a> </p>
 <pre>
 <p><strong><i>Project for the Future: An Anthology of new Sociotechnical Imaginaries </i> </strong>
 is set to be a digital and print publication 
