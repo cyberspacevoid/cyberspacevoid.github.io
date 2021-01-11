@@ -4,6 +4,7 @@
 
 <body>
 <div>
+<article>
 <p><h2><strong>PROJECT FOR THE FUTURE</strong></h2></p>
 
 <p> <a href="https://www.cyberspacevoid.xyz">Clara Chen</a> </p>
@@ -34,7 +35,7 @@ a balance against the dismal news stories and projections that we've been
 hearing for far too long. 
 </p>
 
-
+</article> 
 <p> <h3> <strong>ABOUT THE DIRECTOR</strong> </h3> </p>
 <pre>Clara Chen is an expanded media artist and animator 
 in Regina SK Treaty Four Territory. 
