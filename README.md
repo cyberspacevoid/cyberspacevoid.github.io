@@ -1,12 +1,6 @@
 
 <html>
-<style>
-div {
-  padding: 100px;
-  border: 5px solid white;
 
-}
-</style>
 
 <body>
 <div>
