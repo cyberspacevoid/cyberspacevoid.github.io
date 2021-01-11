@@ -18,7 +18,7 @@ a just world, in areas of
 art, 
 politics,
 science
- and tech.  
+and tech.  
 <br>    It will feature designs (in the digital and print version)
 and animations (in the digital version) to show concepts
 and new possible worlds. 
