@@ -1,13 +1,13 @@
-<!DOCTYPE html>
+
 <html>
 <style>
 div {
-  padding: 200px;
+  padding: 100px;
   border: 5px solid white;
 
 }
 </style>
-</head>
+
 <body>
 <div>
 <p><h2><strong>PROJECT FOR THE FUTURE</strong></h2></p>
