@@ -35,8 +35,8 @@ hearing for far too long.
 </p>
 
 
-<pre> <h3> <strong>ABOUT THE DIRECTOR</strong> </h3> 
-Clara Chen is an expanded media artist and animator 
+<p> <h3> <strong>ABOUT THE DIRECTOR</strong> </h3> </p>
+<pre>Clara Chen is an expanded media artist and animator 
 in Regina SK Treaty Four Territory. 
 Clara's work stems from the exploration of migration, 
 separation, and the ways in which we are intertwined with cyberspace. 
