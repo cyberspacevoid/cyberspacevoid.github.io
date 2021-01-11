@@ -37,7 +37,7 @@ hearing for far too long.
 
 
 <p> <h3> <strong>ABOUT THE DIRECTOR</strong> </h3> </p>
-<pre>Clara Chen is an expanded media artist and animator 
+<pre> <p> Clara Chen is an expanded media artist and animator 
 in Regina SK Treaty Four Territory. 
 Clara's work stems from the exploration of migration, 
 separation, and the ways in which we are intertwined with cyberspace. 
@@ -47,6 +47,6 @@ CTV, Narcity, Mackenzie Art Gallery, Neutral Ground Artist Run Centre, Regina Do
 the Nova Scotia Advocate, & Canada's National Observer.
 
 Her research interests include: the interrelations of hacktivism, digital art, and geopolitics. 
-</pre>
+</p> </pre>
 <p> If you would like to get involved with the project, or 
 know of someone who would, please contact Clara Chen at <a href="mailto:clarachen@nscad.ca">clarachen@nscad.ca</a> 
