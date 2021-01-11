@@ -23,7 +23,7 @@ and tech.
 and animations (in the digital version) to show concepts
 and new possible worlds. 
 
-<i> Project for the Future </i>will serve as a playbook, manifesto, and 
+<i>     Project for the Future </i>will serve as a playbook, manifesto, and 
 creature blueprint for a hopeful world, and most importantly, as
 a balance against the dismal news stories and projections that we've been 
 hearing for far too long. 
