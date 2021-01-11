@@ -19,7 +19,7 @@ art,
 politics,
 science
  and tech.  
-<br>    It will feature illustrations (in the digital and print version)
+<br>    It will feature designs (in the digital and print version)
 and animations (in the digital version) to show concepts
 and new possible worlds. 
 
