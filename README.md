@@ -23,11 +23,6 @@ science
 and animations (in the digital version) to show concepts
 and new possible worlds. 
 
-We will illustrate and elaborate on such visual 
-images as necessary. 
-
-We are looking for queer and bipoc groups to feature. 
-
 <i> Project for the Future </i>will serve as a playbook, manifesto, and 
 creature blueprint for a hopeful world, and most importantly, as
 a balance against the dismal news stories and projections that we've been 
